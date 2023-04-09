@@ -1,7 +1,7 @@
 
 #Jewelry Website
 
-Designing an elegant jewelry website using Bootstrap requires a high level of professionalism and attention to detail. The goal is to create a visually stunning and user-friendly interface that is both aesthetically pleasing and easy to navigate.
+I have designe an elegant jewelry website using Bootstrap and attention to detail. My goal was to create a visually stunning and user-friendly interface that is both aesthetically pleasing and easy to navigate.
 
 ## Screenshots
 
